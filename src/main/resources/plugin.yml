@@ -1,0 +1,7 @@
+name: FireballChallenge
+version: '${project.version}'
+main: me.viseper.fireballchallenge.FireballChallenge
+api-version: 1.18
+authors: [ Viseper ]
+description: A minecraft challenge where you got to use fireballs to play minecraft.
+website: https://viseper.netlify.app/index.html
